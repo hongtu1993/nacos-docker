@@ -1,5 +1,7 @@
 # Nacos Docker
 
+支持Mac M1芯片
+
 ![Docker Pulls](https://img.shields.io/docker/pulls/nacos/nacos-server.svg?maxAge=60480)
 
 This project contains a Docker image meant to facilitate the deployment of [Nacos](https://github.com/alibaba/nacos).
